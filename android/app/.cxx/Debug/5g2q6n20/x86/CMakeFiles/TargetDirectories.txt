@@ -1,0 +1,2 @@
+D:/Beginner Tharwat Samy projescts/news_app/android/app/.cxx/Debug/5g2q6n20/x86/CMakeFiles/edit_cache.dir
+D:/Beginner Tharwat Samy projescts/news_app/android/app/.cxx/Debug/5g2q6n20/x86/CMakeFiles/rebuild_cache.dir
