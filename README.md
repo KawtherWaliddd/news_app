@@ -15,5 +15,5 @@ A simple Flutter app that fetches and displays news articles from an API.
 ## Getting Started
 1. Clone the repo
 2. Run `flutter pub get`
-3. Add your API key to `api_constants.dart`
+3. Add your API key
 4. Run the app
