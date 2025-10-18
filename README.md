@@ -1,16 +1,35 @@
-# news
+#  News App 📰
 
-A new Flutter project.
+A Flutter application that displays the latest **general news** and allows users to explore articles by **categories**.  
+The app uses the **Dio package** to fetch real-time data from a News API and presents it in a clean, responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  **Home Page:**  
+  - Displays a list of the latest **general news**.  
+  - Shows a **horizontal list view of categories** (e.g., Business, Sports, Technology, Health, etc.) at the top.  
+  - Automatically updates the news list when a category is selected.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-  **API Integration:**  
+  - Fetches live news data using **Dio** for network requests.  
+  - Handles loading and error states smoothly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  **Clean UI:**  
+  - Simple, responsive, and user-friendly interface.  
+  - News cards with title, image, and description preview.
+
+---
+
+##  Technologies Used
+
+- **Flutter** (Dart)
+- **Dio** — for API requests
+- **News API** — for fetching latest articles
+
+---
+
+##  Demo Video
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/18LV4VS1yM938qk03KBXSKJdoxraxh_s2/view?usp=sharing) improve it
