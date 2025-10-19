@@ -32,4 +32,4 @@ The app uses the **Dio package** to fetch real-time data from a News API and pre
 
 ##  Demo Video
 
-👉 [Watch Demo Video](https://drive.google.com/file/d/1n3bcDHEkiW7rjmrJLnKuJrX24vK5zCKL/view?usp=drive_link) improve it
+👉 [Watch Demo Video](https://drive.google.com/file/d/1n3bcDHEkiW7rjmrJLnKuJrX24vK5zCKL/view?usp=drive_link) 
